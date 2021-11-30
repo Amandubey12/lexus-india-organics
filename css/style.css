@@ -71,7 +71,7 @@ header .container-fluid img{
     background: blue;
     height: 40px;
     width: 150px;
-    margin-left: 350px;
+    /* margin-right: 0px; */
 
 }
 
@@ -80,7 +80,7 @@ header .navbar-expand-lg .navbar-nav .nav-link {
     font-size: 16px;
     font-weight: 600;
     text-transform: uppercase;
-    padding: 10px 24px;
+    padding: 10px 10px ;
 }
 
 .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .show>.nav-link {
