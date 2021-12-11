@@ -310,6 +310,10 @@ ul.team-social li a {
     line-height: 35px;
     color: black;
 }
+hr{
+    
+    border: 2px solid blue;
+}
 
  
 
